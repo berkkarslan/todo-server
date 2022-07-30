@@ -2,6 +2,6 @@
   "todos": [
     { "id": 1, "title": "Ekmek", "completed" : false },
     { "id": 2, "title": "Süt", "completed" : true },
-    { "id": 3, "title": "Yumurta", "completed" : false },
+    { "id": 3, "title": "Yumurta", "completed" : false }
   ],
 }
